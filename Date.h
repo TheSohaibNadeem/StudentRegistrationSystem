@@ -1,6 +1,5 @@
 /*
 Author: Sohaib Nadeem
-Student Number: 100621437
 */
 //This class allows the user flexibility in setting dates, there are no hard limits so the user is not limited to any particular calendar
 #ifndef DATE_H
