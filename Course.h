@@ -1,6 +1,5 @@
 /*
 Author: Sohaib Nadeem
-Student Number: 100621437
 */
 #ifndef COURSE_H
 #define COURSE_H
